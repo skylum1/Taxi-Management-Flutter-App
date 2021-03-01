@@ -1,4 +1,4 @@
-# Taxi
+# Taxi Management App 
 
 The main aim of Taxi Management Mini DBMS project is to rent taxi and get payments from
 respective clients. We aim to demonstrate the use of create, read, update and delete MySQL
@@ -6,6 +6,8 @@ operations through this project. The project starts by adding a taxi and by addi
 using the taxi added. The owner provides taxi to the drivers and adds their expenses on daily basis.
 Booking scene is where a customer can book a taxi to get to the desired location
 
+## Demo video
+This youtube video showcases the final UI of app .(https://youtu.be/R04AN7NTY-c)
 ## Getting Started
 
 To build app from scratch :-
