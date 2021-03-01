@@ -9,8 +9,8 @@ Booking scene is where a customer can book a taxi to get to the desired location
 ## Getting Started
 
 To build app from scratch :-
-1.) Install  [Flutter](https://flutter.dev/docs/get-started/install)
-2.) Install  [Android Studio](https://developer.android.com/studio)
-3.) Open Android Studio and then select “Get from version control” and paste the https cloning url.
-4.) When project opens in android studio, open “pubspec.yaml” file and run “get dependencies” command.
-5.) Then press(shift+F10)to start run command .
+1.  Install  [Flutter](https://flutter.dev/docs/get-started/install)
+1. Install  [Android Studio](https://developer.android.com/studio)
+1. Open Android Studio and then select “Get from version control” and paste the https cloning url.
+1. When project opens in android studio, open “pubspec.yaml” file and run “get dependencies” command.
+1. Then press(shift+F10)to start run command .
