@@ -1,16 +1,16 @@
-# taxi
+# Taxi
 
-A new Flutter application.
+The main aim of Taxi Management Mini DBMS project is to rent taxi and get payments from
+respective clients. We aim to demonstrate the use of create, read, update and delete MySQL
+operations through this project. The project starts by adding a taxi and by adding details of driver
+using the taxi added. The owner provides taxi to the drivers and adds their expenses on daily basis.
+Booking scene is where a customer can book a taxi to get to the desired location
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build app from scratch :-
+1.) Install  [Flutter](https://flutter.dev/docs/get-started/install)
+2.) Install  [Android Studio](https://developer.android.com/studio)
+3.) Open Android Studio and then select “Get from version control” and paste the https cloning url.
+4.) When project opens in android studio, open “pubspec.yaml” file and run “get dependencies” command.
+5.) Then press(shift+F10)to start run command .
