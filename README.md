@@ -9,6 +9,7 @@ Booking scene is where a customer can book a taxi to get to the desired location
 ## Demo video
 
 This youtube video showcases the final UI of app
+
 [![demo video ](https://img.youtube.com/vi/R04AN7NTY-c/0.jpg)](https://www.youtube.com/watch?v=R04AN7NTY-c)
 
 ## Getting Started
