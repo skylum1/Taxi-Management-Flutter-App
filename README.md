@@ -7,7 +7,10 @@ using the taxi added. The owner provides taxi to the drivers and adds their expe
 Booking scene is where a customer can book a taxi to get to the desired location
 
 ## Demo video
-This youtube video showcases the final UI of app .(https://youtu.be/R04AN7NTY-c)
+
+This youtube video showcases the final UI of app
+[![demo video ](https://img.youtube.com/vi/R04AN7NTY-c/0.jpg)](https://www.youtube.com/watch?v=R04AN7NTY-c)
+
 ## Getting Started
 
 To build app from scratch :-
